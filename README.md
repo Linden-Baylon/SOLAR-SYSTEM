@@ -48,6 +48,7 @@ It is submitted as an academic requirement for the **Midterm Project** of **BSEM
 - **Abad, JhonMark**
 - **Gasparillo, Felix III**
 - **Regojos, Gabriel**
+- **Roxas, Jefry**
 
 ## 📚 Academic Use
 
